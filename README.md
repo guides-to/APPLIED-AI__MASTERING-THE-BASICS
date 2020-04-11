@@ -71,6 +71,7 @@ AI is the fusion of many fields of study
 12. Detecting Fradulent Transactions
 13. Mechanical Automation by Robotics
 14. Text Composition in Email Body by Google
+
 **Impact of AI** <br>
 According to a study by PWC, about 16 trillion of GDP will be added between now and 2030 on the basis of AI. It is not just in IT industry, it impacts virtually every industry and aspects of our lives.
 
